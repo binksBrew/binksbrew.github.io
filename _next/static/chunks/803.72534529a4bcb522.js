@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[803],{1803:(e,s,t)=>{t.r(s),t.d(s,{default:()=>l});var c=t(5155),i=t(3498);function l(){let e=(0,i.p)("/model.glb",!0);return(0,c.jsx)("primitive",{object:e.scene,scale:.9,position:[0,-1.5,0]})}}}]);
